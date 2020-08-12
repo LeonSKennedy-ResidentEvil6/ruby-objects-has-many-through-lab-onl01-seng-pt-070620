@@ -21,6 +21,7 @@ def appointment
 end
 
 def patients
-end 
+  appoinment.
+end
 
 end
