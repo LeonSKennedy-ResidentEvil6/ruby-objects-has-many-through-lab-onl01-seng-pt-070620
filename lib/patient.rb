@@ -6,7 +6,7 @@ class Patient
     @@all
   end
 
-  
+  def initialize(name )
 
 
 
