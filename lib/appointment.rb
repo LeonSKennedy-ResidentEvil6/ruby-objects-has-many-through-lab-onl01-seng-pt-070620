@@ -4,9 +4,10 @@ class Appointment
 
 def self.all
   @@all
-end 
+end
 
 def initialize(date, patient, doctor)
+end 
 
 
 
