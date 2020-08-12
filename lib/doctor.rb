@@ -21,7 +21,7 @@ def appointments
 end
 
 def patients
-  appoinment.collect {||}
+  appointments.collect {||}
 end
 
 end
