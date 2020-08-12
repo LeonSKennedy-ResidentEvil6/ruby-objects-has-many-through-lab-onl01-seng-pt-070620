@@ -16,6 +16,6 @@ def new_appointment(date, patient)
   Appointment.new(self,date,patient)
 end
 
-def 
+def appointment
 
 end
