@@ -21,7 +21,8 @@ class Patient
   end
 
   def doctor
-  end 
+    appointments.collect 
+  end
 
   def
 
