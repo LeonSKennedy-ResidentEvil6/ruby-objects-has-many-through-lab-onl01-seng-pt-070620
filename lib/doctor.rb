@@ -1,2 +1,4 @@
 class Doctor
-end 
+
+  
+end
