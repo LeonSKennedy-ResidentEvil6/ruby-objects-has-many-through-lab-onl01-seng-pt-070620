@@ -21,7 +21,7 @@ def appointment
 end
 
 def patients
-  appoinment.
+  appoinment.map 
 end
 
 end
