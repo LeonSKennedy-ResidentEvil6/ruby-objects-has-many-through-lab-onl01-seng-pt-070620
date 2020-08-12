@@ -7,7 +7,10 @@ def self.all
 end
 
 def initialize(date, patient, doctor)
-end 
+  @date = date
+  @patient = patient
+  @doctor = doctor
+end
 
 
 
