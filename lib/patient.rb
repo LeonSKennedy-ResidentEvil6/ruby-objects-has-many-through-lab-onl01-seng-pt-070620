@@ -3,6 +3,11 @@ class Patient
   @@all = []
 
   def self.all
-    @@all 
+    @@all
   end
+
+  
+
+
+
 end
