@@ -6,6 +6,8 @@ def self.all
   @@all
 end 
 
+def initialize(date, patient, doctor)
+
 
 
 end
