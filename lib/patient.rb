@@ -20,6 +20,8 @@ class Patient
     Appointment.all.collect {|appointment| appointment.patient == self }
   end
 
+  def 
+
 
 
 end
